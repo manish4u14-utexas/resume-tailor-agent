@@ -1,0 +1,43 @@
+Senior Python Developer - AI/ML Focus
+
+Company: InnovateAI Solutions
+Location: San Francisco, CA (Remote friendly)
+
+Job Description:
+We are seeking a Senior Python Developer with expertise in AI/ML to join our growing team. The ideal candidate will have strong experience in developing scalable Python applications and implementing machine learning solutions.
+
+Key Responsibilities:
+• Design and develop robust Python applications and APIs
+• Implement machine learning models and algorithms
+• Work with large datasets and data processing pipelines
+• Collaborate with data scientists and product teams
+• Optimize application performance and scalability
+• Mentor junior developers and contribute to code reviews
+• Stay current with AI/ML trends and technologies
+
+Required Skills:
+• 5+ years of Python development experience
+• Strong experience with machine learning frameworks (TensorFlow, PyTorch, scikit-learn)
+• Proficiency in data manipulation libraries (Pandas, NumPy)
+• Experience with cloud platforms (AWS, GCP, Azure)
+• Knowledge of containerization (Docker, Kubernetes)
+• Familiarity with version control (Git) and CI/CD pipelines
+• Strong problem-solving and analytical skills
+• Excellent communication and teamwork abilities
+
+Preferred Qualifications:
+• Experience with deep learning and neural networks
+• Knowledge of MLOps practices and tools
+• Familiarity with big data technologies (Spark, Hadoop)
+• Experience with API development (FastAPI, Flask)
+• Understanding of software engineering best practices
+• Bachelor's degree in Computer Science or related field
+
+What We Offer:
+• Competitive salary and equity package
+• Comprehensive health benefits
+• Flexible work arrangements
+• Professional development opportunities
+• Cutting-edge AI/ML projects
+• Collaborative and innovative work environment
+
